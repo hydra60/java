@@ -7,3 +7,6 @@ Post De Titile
 * opcion1
 * opcion2
 * opcon3
+#adicion de comandos
+* $git push origin master
+* $ git log
