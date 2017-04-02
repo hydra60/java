@@ -1,0 +1,5 @@
+# Titulo Repositorio
+en este repositorio podemos ver un ejemplo de como utilizar o subir cambios a github 
+## subtitulo
+dvemos hacer un reposotorio que su cuarde con git init
+Post De Titile
